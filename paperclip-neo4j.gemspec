@@ -3,7 +3,7 @@
 Gem::Specification.new do |gem|
 
   gem.name        = 'paperclip-neo4j'
-  gem.version     = '1.0.1'
+  gem.version     = '1.0.2'
   # gem.platform    = "ruby"
   gem.authors     = 'Kieran Lafferty'
   gem.email       = 'kieran.lafferty@gmail.com'

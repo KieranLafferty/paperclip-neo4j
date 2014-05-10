@@ -44,7 +44,7 @@ end
 #  field :avatar_updated_at,   :type => DateTime
 #  field :avatar_fingerprint,  :type => String
 #
-module Neo4j
+module Neo4jrb
   module Paperclip
 
     ##
